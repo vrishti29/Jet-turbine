@@ -6,3 +6,6 @@ For example, if we remove the hull, we will be able to see all the moving parts 
 This stimulation can be really helpful in a complete and proper understanding of the working of a jet turbine. 
 
 To download the apk file, use this link [Jet Turbine Stimulation](https://drive.google.com/file/d/165ltxoesA7YA_5ckJtEwpG1ScH_2JI8A/view?usp=sharing)
+
+To download the assets of the turbine, use [Assets for Turbine](https://drive.google.com/file/d/1_90ouTH5Xypj-gU6_hDCYD471rBu46-O/view?usp=sharing)
+
